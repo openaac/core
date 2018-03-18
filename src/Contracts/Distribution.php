@@ -1,6 +1,6 @@
 <?php
 
-namespace pandaac\Core\Contracts;
+namespace OpenAAC\Core\Contracts;
 
 interface Distribution
 {

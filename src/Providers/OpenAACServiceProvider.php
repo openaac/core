@@ -1,10 +1,10 @@
 <?php
 
-namespace pandaac\Core\Providers;
+namespace OpenAAC\Core\Providers;
 
 use Illuminate\Support\AggregateServiceProvider;
 
-class PandaacServiceProvider extends AggregateServiceProvider
+class OpenAACServiceProvider extends AggregateServiceProvider
 {
     /**
      * The provider class names.

@@ -1,8 +1,8 @@
 <?php
 
-namespace pandaac\Core\Foundation;
+namespace OpenAAC\Core\Foundation;
 
-use pandaac\Framework\Foundation\Application as BaseApplication;
+use OpenAAC\Framework\Foundation\Application as BaseApplication;
 
 class Application extends BaseApplication
 {

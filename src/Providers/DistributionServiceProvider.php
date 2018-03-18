@@ -1,6 +1,6 @@
 <?php
 
-namespace pandaac\Core\Providers;
+namespace OpenAAC\Core\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

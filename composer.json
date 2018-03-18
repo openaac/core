@@ -1,20 +1,27 @@
 {
-    "name": "pandaac/core",
+    "name": "openaac/core",
     "type": "library",
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/openaac/core/issues"
+    },
     "authors": [
         {
             "name": "Christopher Eklund",
             "email": "eklundchristopher@gmail.com"
+        },
+        {
+            "name": "Panagiotis Pagoulatos",
+            "email": "phpanos@gmail.com"
         }
     ],
     "require": {
-        "pandaac/framework": "dev-master",
-        "pandaac/contracts": "dev-master"
+        "openaac/framework": "dev-master",
+        "openaac/contracts": "dev-master"
     },
     "autoload": {
         "psr-4": {
-            "pandaac\\Core\\": "src/"
+            "OpenAAC\\Core\\": "src/"
         }
     }
 }
