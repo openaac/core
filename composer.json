@@ -1,0 +1,20 @@
+{
+    "name": "pandaac/core",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Eklund",
+            "email": "eklundchristopher@gmail.com"
+        }
+    ],
+    "require": {
+        "pandaac/framework": "dev-master",
+        "pandaac/contracts": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "pandaac\\Core\\": "src/"
+        }
+    }
+}
